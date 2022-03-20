@@ -526,7 +526,7 @@ def onmessage(update,bot:ObigramClient):
 def main():
     
     #TOKEN DEL BOT
-    bot_token = '5199295188:AAHKvGfyUdLJMBttnDVqDJaJul17OiKwBjg'
+    bot_token = '5299339183:AAGKozxLf21GcO8eH3qNTXIUknwYoKKp43w' 
 
     bot = ObigramClient(bot_token)
     bot.onMessage(onmessage)
